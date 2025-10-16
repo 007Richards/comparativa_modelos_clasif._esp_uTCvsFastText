@@ -1,0 +1,20 @@
+#!/bin/bash
+
+test="/home/rfabian/restMex25/utc/pol/Rest-Mex25_Pol_test.json"
+train="/home/rfabian/restMex25/utc/pol/Rest-Mex25_Pol_train.json"
+res="resultadoPol.json"
+pred="predictedPol.json"
+params="params_utc.params"
+model="model_utc.model"
+
+microtc-params -k5 -Smacrof1 -s12 -n12 $train -o $params && 
+
+python3 <<EOF
+import json
+with open('$params') as f:
+    params = json.load(f)
+params['clf_args'] = {'max_iter': 10000, 'class_weight': 'balanced'}
+with open('$params', 'w') as f:
+    json.dump(params, f, indent=2)
+EOF
+microtc-train -o $model -m $params $train && microtc-predict -m $model -o $pred $test && microtc-perf $test $pred -o $res

@@ -1,0 +1,1986 @@
+[
+  {
+    "_accuracy": 0.9662701273732276,
+    "_all_f1": {
+      "Attractive": 0.968541331905017,
+      "Hotel": 0.9547893286079937,
+      "Restaurant": 0.9711309779649847
+    },
+    "_all_precision": {
+      "Attractive": 0.9670047594431274,
+      "Hotel": 0.966035010831943,
+      "Restaurant": 0.9658174460687926
+    },
+    "_all_recall": {
+      "Attractive": 0.9700827953720427,
+      "Hotel": 0.9438024571220046,
+      "Restaurant": 0.976503299046302
+    },
+    "_geometricf1": 0.8983355001997145,
+    "_harmonicf1": 0.9648669916002282,
+    "_macrof1": 0.9648205461593319,
+    "_macrof1accuracy": 0.9322772720296846,
+    "_macrorecall": 0.9634628505134497,
+    "_microf1": 0.9662701273732276,
+    "_score": 0.9648205461593319,
+    "_time": 1402.6777268886567,
+    "_weightedf1": 0.9662250713671803,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9653088199951935,
+    "_all_f1": {
+      "Attractive": 0.9675985432733505,
+      "Hotel": 0.953288752601569,
+      "Restaurant": 0.9704612343981611
+    },
+    "_all_precision": {
+      "Attractive": 0.9659603286343141,
+      "Hotel": 0.9652833200319234,
+      "Restaurant": 0.964802870445517
+    },
+    "_all_recall": {
+      "Attractive": 0.9692423239927755,
+      "Hotel": 0.9415886145237805,
+      "Restaurant": 0.9761863601002679
+    },
+    "_geometricf1": 0.8954329107287078,
+    "_harmonicf1": 0.9638240105843972,
+    "_macrof1": 0.9637828434243602,
+    "_macrof1accuracy": 0.9303480793175815,
+    "_macrorecall": 0.9623390995389413,
+    "_microf1": 0.9653088199951935,
+    "_score": 0.9637828434243602,
+    "_time": 1418.7201132774353,
+    "_weightedf1": 0.9652584020583422,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      1,
+      2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9647380437394857,
+    "_all_f1": {
+      "Attractive": 0.9670969239283738,
+      "Hotel": 0.9528421623353419,
+      "Restaurant": 0.9697568378179111
+    },
+    "_all_precision": {
+      "Attractive": 0.9655110952678014,
+      "Hotel": 0.9654165001997603,
+      "Restaurant": 0.9637344032324612
+    },
+    "_all_recall": {
+      "Attractive": 0.9686879705298547,
+      "Hotel": 0.9405911689575478,
+      "Restaurant": 0.9758550148385052
+    },
+    "_geometricf1": 0.8939002961390765,
+    "_harmonicf1": 0.9632744380133798,
+    "_macrof1": 0.9632319746938757,
+    "_macrof1accuracy": 0.9292665309334914,
+    "_macrorecall": 0.9617113847753025,
+    "_microf1": 0.9647380437394857,
+    "_score": 0.9632319746938757,
+    "_time": 1361.4001108169555,
+    "_weightedf1": 0.9646858045306735,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      -3,
+      -2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9632540254746456,
+    "_all_f1": {
+      "Attractive": 0.9657007634951109,
+      "Hotel": 0.9506174362517117,
+      "Restaurant": 0.9686199350658639
+    },
+    "_all_precision": {
+      "Attractive": 0.9644691780821918,
+      "Hotel": 0.9642857142857143,
+      "Restaurant": 0.9617012212439647
+    },
+    "_all_recall": {
+      "Attractive": 0.9669354982922337,
+      "Hotel": 0.9373312249118112,
+      "Restaurant": 0.9756389201025729
+    },
+    "_geometricf1": 0.8894821567622337,
+    "_harmonicf1": 0.9616809947797507,
+    "_macrof1": 0.9616460449375621,
+    "_macrof1accuracy": 0.9263094238678786,
+    "_macrorecall": 0.9599685477688725,
+    "_microf1": 0.9632540254746456,
+    "_score": 0.9616460449375621,
+    "_time": 928.5100448608398,
+    "_weightedf1": 0.9631931403821112,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -3,
+      -1,
+      3
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9632119682768565,
+    "_all_f1": {
+      "Attractive": 0.9672624630418666,
+      "Hotel": 0.9490818030050083,
+      "Restaurant": 0.9682142473021905
+    },
+    "_all_precision": {
+      "Attractive": 0.9663216134213815,
+      "Hotel": 0.9578532669293095,
+      "Restaurant": 0.9638120797704529
+    },
+    "_all_recall": {
+      "Attractive": 0.9682051465460203,
+      "Hotel": 0.9404695292543486,
+      "Restaurant": 0.9726568127467081
+    },
+    "_geometricf1": 0.8891088984983823,
+    "_harmonicf1": 0.9615383915508195,
+    "_macrof1": 0.9615195044496884,
+    "_macrof1accuracy": 0.926147094417572,
+    "_macrorecall": 0.9604438295156923,
+    "_microf1": 0.9632119682768565,
+    "_score": 0.9615195044496884,
+    "_time": 1329.2300682544708,
+    "_weightedf1": 0.9631694032114836,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -1,
+      2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9629476087478971,
+    "_all_f1": {
+      "Attractive": 0.9674062930926414,
+      "Hotel": 0.9487969787415484,
+      "Restaurant": 0.9677178202520181
+    },
+    "_all_precision": {
+      "Attractive": 0.9688290259518985,
+      "Hotel": 0.9502440214738898,
+      "Restaurant": 0.9657116623387803
+    },
+    "_all_recall": {
+      "Attractive": 0.9659877326943367,
+      "Hotel": 0.947354336455419,
+      "Restaurant": 0.9697323306537586
+    },
+    "_geometricf1": 0.8885185042478839,
+    "_harmonicf1": 0.9613250893322657,
+    "_macrof1": 0.9613070306954027,
+    "_macrof1accuracy": 0.9256883064806793,
+    "_macrorecall": 0.9610247999345048,
+    "_microf1": 0.9629476087478971,
+    "_score": 0.9613070306954027,
+    "_time": 1220.7002701282502,
+    "_weightedf1": 0.9629403502894648,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      -3,
+      -1,
+      2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9626592165344869,
+    "_all_f1": {
+      "Attractive": 0.9652007784741193,
+      "Hotel": 0.9504989528150795,
+      "Restaurant": 0.9676869774367197
+    },
+    "_all_precision": {
+      "Attractive": 0.9637209634000677,
+      "Hotel": 0.9628353924872083,
+      "Restaurant": 0.9617113912523833
+    },
+    "_all_recall": {
+      "Attractive": 0.9666851451154307,
+      "Hotel": 0.938474638121883,
+      "Restaurant": 0.9737372864263694
+    },
+    "_geometricf1": 0.8880547916086354,
+    "_harmonicf1": 0.9611687453071932,
+    "_macrof1": 0.9611289029086395,
+    "_macrof1accuracy": 0.9252395966626819,
+    "_macrorecall": 0.959632356554561,
+    "_microf1": 0.9626592165344869,
+    "_score": 0.9611289029086395,
+    "_time": 1491.0629402637483,
+    "_weightedf1": 0.9626068014918742,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      -2,
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9616438356164384,
+    "_all_f1": {
+      "Attractive": 0.9667559025508331,
+      "Hotel": 0.946646453285082,
+      "Restaurant": 0.9663479127958278
+    },
+    "_all_precision": {
+      "Attractive": 0.968082054224645,
+      "Hotel": 0.9514856595148566,
+      "Restaurant": 0.9624194447222897
+    },
+    "_all_recall": {
+      "Attractive": 0.9654333792314157,
+      "Hotel": 0.9418562218708186,
+      "Restaurant": 0.9703085832829113
+    },
+    "_geometricf1": 0.8846549098639154,
+    "_harmonicf1": 0.9599243719526364,
+    "_macrof1": 0.9599167562105809,
+    "_macrof1accuracy": 0.9230980313148327,
+    "_macrorecall": 0.9591993947950485,
+    "_microf1": 0.9616438356164384,
+    "_score": 0.9599167562105809,
+    "_time": 1279.9861479759215,
+    "_weightedf1": 0.9616194022328649,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -3,
+      -2,
+      1,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9615176640230714,
+    "_all_f1": {
+      "Attractive": 0.9670084110228198,
+      "Hotel": 0.9465033758809325,
+      "Restaurant": 0.9658392866081709
+    },
+    "_all_precision": {
+      "Attractive": 0.9667059832725713,
+      "Hotel": 0.958860680496268,
+      "Restaurant": 0.9589066382676606
+    },
+    "_all_recall": {
+      "Attractive": 0.9673110280574382,
+      "Hotel": 0.9344605279163118,
+      "Restaurant": 0.9728729074826404
+    },
+    "_geometricf1": 0.8842865905960101,
+    "_harmonicf1": 0.9597909499736077,
+    "_macrof1": 0.959783691170641,
+    "_macrof1accuracy": 0.9228489727018356,
+    "_macrorecall": 0.9582148211521302,
+    "_microf1": 0.9615176640230714,
+    "_score": 0.959783691170641,
+    "_time": 1280.3831604003906,
+    "_weightedf1": 0.9614567823781086,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -2,
+      -1,
+      1,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9613494352319154,
+    "_all_f1": {
+      "Attractive": 0.9666779885232127,
+      "Hotel": 0.9474047164583461,
+      "Restaurant": 0.9651852328733806
+    },
+    "_all_precision": {
+      "Attractive": 0.9663670318280108,
+      "Hotel": 0.9592768079800499,
+      "Restaurant": 0.958541124987568
+    },
+    "_all_recall": {
+      "Attractive": 0.9669891454015486,
+      "Hotel": 0.9358228925921421,
+      "Restaurant": 0.9719220906445386
+    },
+    "_geometricf1": 0.8842270501864169,
+    "_harmonicf1": 0.9597756182372558,
+    "_macrof1": 0.9597559792849798,
+    "_macrof1accuracy": 0.9226608686460692,
+    "_macrorecall": 0.9582447095460765,
+    "_microf1": 0.9613494352319154,
+    "_score": 0.9597559792849798,
+    "_time": 1317.085891008377,
+    "_weightedf1": 0.961295592531241,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      1,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9608086998317712,
+    "_all_f1": {
+      "Attractive": 0.9647856537449258,
+      "Hotel": 0.9476047165622379,
+      "Restaurant": 0.965280312627488
+    },
+    "_all_precision": {
+      "Attractive": 0.9626985257460294,
+      "Hotel": 0.9610467589002026,
+      "Restaurant": 0.9591636441220397
+    },
+    "_all_recall": {
+      "Attractive": 0.9668818511829188,
+      "Hotel": 0.9345335117382314,
+      "Restaurant": 0.9714754948569453
+    },
+    "_geometricf1": 0.8827695190376152,
+    "_harmonicf1": 0.9592527297541492,
+    "_macrof1": 0.9592235609782173,
+    "_macrof1accuracy": 0.9216303424714826,
+    "_macrorecall": 0.9576302859260318,
+    "_microf1": 0.9608086998317712,
+    "_score": 0.9592235609782173,
+    "_time": 987.6953693389893,
+    "_weightedf1": 0.9607488466599688,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -2,
+      -1,
+      1,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9607966834895458,
+    "_all_f1": {
+      "Attractive": 0.9661410432701751,
+      "Hotel": 0.9463228035538006,
+      "Restaurant": 0.964904251819859
+    },
+    "_all_precision": {
+      "Attractive": 0.9648315588607708,
+      "Hotel": 0.9601853011143108,
+      "Restaurant": 0.9579310540663335
+    },
+    "_all_recall": {
+      "Attractive": 0.9674540870156113,
+      "Hotel": 0.9328548838340834,
+      "Restaurant": 0.9719797159074538
+    },
+    "_geometricf1": 0.8824699057552692,
+    "_harmonicf1": 0.959136464344865,
+    "_macrof1": 0.9591226995479448,
+    "_macrof1accuracy": 0.9215219087852055,
+    "_macrorecall": 0.9574295622523828,
+    "_microf1": 0.9607966834895458,
+    "_score": 0.9591226995479448,
+    "_time": 1338.7453187465667,
+    "_weightedf1": 0.9607308090399791,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      2,
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9606705118961788,
+    "_all_f1": {
+      "Attractive": 0.9636600421022585,
+      "Hotel": 0.9481100590838298,
+      "Restaurant": 0.9655394294702223
+    },
+    "_all_precision": {
+      "Attractive": 0.9613789666648869,
+      "Hotel": 0.9636907304570697,
+      "Restaurant": 0.9583995685250369
+    },
+    "_all_recall": {
+      "Attractive": 0.9659519679547933,
+      "Hotel": 0.9330251794185622,
+      "Restaurant": 0.9727864695882675
+    },
+    "_geometricf1": 0.8824466633197929,
+    "_harmonicf1": 0.9591392163296937,
+    "_macrof1": 0.9591031768854369,
+    "_macrof1accuracy": 0.921382139899784,
+    "_macrorecall": 0.9572545389872077,
+    "_microf1": 0.9606705118961788,
+    "_score": 0.9591031768854369,
+    "_time": 708.4770836830139,
+    "_weightedf1": 0.9606035276993945,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      1,
+      2
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.960646479211728,
+    "_all_f1": {
+      "Attractive": 0.963705792084508,
+      "Hotel": 0.9471933779239496,
+      "Restaurant": 0.9660131936137752
+    },
+    "_all_precision": {
+      "Attractive": 0.9616295425814149,
+      "Hotel": 0.9593293078496931,
+      "Restaurant": 0.9606119745295517
+    },
+    "_all_recall": {
+      "Attractive": 0.9657910266268486,
+      "Hotel": 0.9353606617199854,
+      "Restaurant": 0.9714754948569453
+    },
+    "_geometricf1": 0.8820679582793483,
+    "_harmonicf1": 0.9589971194558035,
+    "_macrof1": 0.9589707878740775,
+    "_macrof1accuracy": 0.9212319110381294,
+    "_macrorecall": 0.9575423944012598,
+    "_microf1": 0.960646479211728,
+    "_score": 0.9589707878740775,
+    "_time": 2014.2234053134919,
+    "_weightedf1": 0.9605900938490046,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9601538091804854,
+    "_all_f1": {
+      "Attractive": 0.9652110743401404,
+      "Hotel": 0.9451861235626583,
+      "Restaurant": 0.9649275216645248
+    },
+    "_all_precision": {
+      "Attractive": 0.9681720043181,
+      "Hotel": 0.9465004513185822,
+      "Restaurant": 0.9617856273883982
+    },
+    "_all_recall": {
+      "Attractive": 0.9622681997818351,
+      "Hotel": 0.9438754409439241,
+      "Restaurant": 0.9680900106606737
+    },
+    "_geometricf1": 0.8805829461585383,
+    "_harmonicf1": 0.9584492680866367,
+    "_macrof1": 0.9584415731891078,
+    "_macrof1accuracy": 0.9202513273744589,
+    "_macrorecall": 0.9580778837954776,
+    "_microf1": 0.9601538091804854,
+    "_score": 0.9584415731891078,
+    "_time": 1582.7641108512878,
+    "_weightedf1": 0.9601473388971363,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      1,
+      2,
+      3,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9595529920692142,
+    "_all_f1": {
+      "Attractive": 0.9634446585313637,
+      "Hotel": 0.9454042505896736,
+      "Restaurant": 0.9646277870371033
+    },
+    "_all_precision": {
+      "Attractive": 0.9611982272217575,
+      "Hotel": 0.9600220706260032,
+      "Restaurant": 0.9579740001420757
+    },
+    "_all_recall": {
+      "Attractive": 0.9657016147779903,
+      "Hotel": 0.9312249118112151,
+      "Restaurant": 0.9713746506468436
+    },
+    "_geometricf1": 0.878901329622888,
+    "_harmonicf1": 0.9578442681117064,
+    "_macrof1": 0.9578255653860469,
+    "_macrof1accuracy": 0.919084387146568,
+    "_macrorecall": 0.9561003924120164,
+    "_microf1": 0.9595529920692142,
+    "_score": 0.9578255653860469,
+    "_time": 1125.4349998950959,
+    "_weightedf1": 0.9594827185749484,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      -1,
+      1,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9592706080269167,
+    "_all_f1": {
+      "Attractive": 0.9652936382119283,
+      "Hotel": 0.9440496029801,
+      "Restaurant": 0.9633507853403142
+    },
+    "_all_precision": {
+      "Attractive": 0.9669477839583707,
+      "Hotel": 0.9510653531837148,
+      "Restaurant": 0.9579101798965916
+    },
+    "_all_recall": {
+      "Attractive": 0.9636451422542516,
+      "Hotel": 0.9371366013866926,
+      "Restaurant": 0.9688535453943009
+    },
+    "_geometricf1": 0.8781622875164968,
+    "_harmonicf1": 0.9575679887776141,
+    "_macrof1": 0.9575646755107808,
+    "_macrof1accuracy": 0.9185636485023239,
+    "_macrorecall": 0.9565450963450818,
+    "_microf1": 0.9592706080269167,
+    "_score": 0.9575646755107808,
+    "_time": 1465.492087507248,
+    "_weightedf1": 0.9592368173910046,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      -3,
+      -2,
+      -1,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9584174477289114,
+    "_all_f1": {
+      "Attractive": 0.9642176772941303,
+      "Hotel": 0.942447960840381,
+      "Restaurant": 0.9632538004631028
+    },
+    "_all_precision": {
+      "Attractive": 0.9690768202590178,
+      "Hotel": 0.9387627024548022,
+      "Restaurant": 0.961635653572249
+    },
+    "_all_recall": {
+      "Attractive": 0.9594070206183724,
+      "Hotel": 0.9461622673640676,
+      "Restaurant": 0.9648774022531478
+    },
+    "_geometricf1": 0.8756073556850344,
+    "_harmonicf1": 0.9566336102934673,
+    "_macrof1": 0.9566398128658714,
+    "_macrof1accuracy": 0.9168602878427718,
+    "_macrorecall": 0.9568155634118626,
+    "_microf1": 0.9584174477289114,
+    "_score": 0.9566398128658714,
+    "_time": 865.661460351944,
+    "_weightedf1": 0.9584393142733403,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      1,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9581230473443884,
+    "_all_f1": {
+      "Attractive": 0.9620402262952189,
+      "Hotel": 0.9450541292916795,
+      "Restaurant": 0.9625327704319625
+    },
+    "_all_precision": {
+      "Attractive": 0.9601211149701665,
+      "Hotel": 0.9615307150050353,
+      "Restaurant": 0.9546156571023734
+    },
+    "_all_recall": {
+      "Attractive": 0.9639670249101411,
+      "Hotel": 0.9291327089161903,
+      "Restaurant": 0.9705823032817588
+    },
+    "_geometricf1": 0.8753901401015073,
+    "_harmonicf1": 0.9565729363981874,
+    "_macrof1": 0.9565423753396204,
+    "_macrof1accuracy": 0.9164852955744368,
+    "_macrorecall": 0.95456067903603,
+    "_microf1": 0.9581230473443884,
+    "_score": 0.9565423753396204,
+    "_time": 1294.48364610672,
+    "_weightedf1": 0.9580506561280562,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      2,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "none",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9573359769286229,
+    "_all_f1": {
+      "Attractive": 0.9640593101966262,
+      "Hotel": 0.9421853116784196,
+      "Restaurant": 0.9607862773430235
+    },
+    "_all_precision": {
+      "Attractive": 0.9654251026666427,
+      "Hotel": 0.9516789516789517,
+      "Restaurant": 0.9541657194817004
+    },
+    "_all_recall": {
+      "Attractive": 0.9626973766563545,
+      "Hotel": 0.9328792117747232,
+      "Restaurant": 0.9674993517157922
+    },
+    "_geometricf1": 0.8729778244977314,
+    "_harmonicf1": 0.9556792374017736,
+    "_macrof1": 0.9556769664060231,
+    "_macrof1accuracy": 0.9149039422624928,
+    "_macrorecall": 0.9543586467156233,
+    "_microf1": 0.9573359769286229,
+    "_score": 0.9556769664060231,
+    "_time": 1437.8521067619324,
+    "_weightedf1": 0.9572921567984595,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -2,
+      -1,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9564768084595049,
+    "_all_f1": {
+      "Attractive": 0.9635834330517404,
+      "Hotel": 0.9407422087895754,
+      "Restaurant": 0.959861878058873
+    },
+    "_all_precision": {
+      "Attractive": 0.9623802643548991,
+      "Hotel": 0.9582860171095465,
+      "Restaurant": 0.9507858435097241
+    },
+    "_all_recall": {
+      "Attractive": 0.9647896139196366,
+      "Hotel": 0.9238292178567085,
+      "Restaurant": 0.9691128590774195
+    },
+    "_geometricf1": 0.8703725235625225,
+    "_harmonicf1": 0.9547236076326941,
+    "_macrof1": 0.954729173300063,
+    "_macrof1accuracy": 0.9131763126212258,
+    "_macrorecall": 0.9525772302845882,
+    "_microf1": 0.9564768084595049,
+    "_score": 0.954729173300063,
+    "_time": 1103.8938510894775,
+    "_weightedf1": 0.9563903512110098,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -1,
+      1,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9549267003124249,
+    "_all_f1": {
+      "Attractive": 0.9609954065022521,
+      "Hotel": 0.9408782948419959,
+      "Restaurant": 0.9581858865750174
+    },
+    "_all_precision": {
+      "Attractive": 0.958661067017831,
+      "Hotel": 0.9565599939666658,
+      "Restaurant": 0.951026721727901
+    },
+    "_all_recall": {
+      "Attractive": 0.9633411419681336,
+      "Hotel": 0.925702469285975,
+      "Restaurant": 0.9654536548823004
+    },
+    "_geometricf1": 0.8666449275038037,
+    "_harmonicf1": 0.9533696954591049,
+    "_macrof1": 0.9533531959730884,
+    "_macrof1accuracy": 0.9103824216628859,
+    "_macrorecall": 0.9514990887121364,
+    "_microf1": 0.9549267003124249,
+    "_score": 0.9533531959730884,
+    "_time": 1323.5024393081665,
+    "_weightedf1": 0.9548554528190997,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      1,
+      2,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.890170632059601,
+    "_all_f1": {
+      "Attractive": 0.9043985326688815,
+      "Hotel": 0.837049927826568,
+      "Restaurant": 0.9061877920499549
+    },
+    "_all_precision": {
+      "Attractive": 0.8760370749040444,
+      "Hotel": 0.9394948821997456,
+      "Restaurant": 0.8795200325401668
+    },
+    "_all_recall": {
+      "Attractive": 0.9346578208544196,
+      "Hotel": 0.7547500304099258,
+      "Restaurant": 0.9345232950125335
+    },
+    "_geometricf1": 0.6862419148906189,
+    "_harmonicf1": 0.8814413206441877,
+    "_macrof1": 0.8825454175151348,
+    "_macrof1accuracy": 0.785616012130752,
+    "_macrorecall": 0.8746437154256262,
+    "_microf1": 0.890170632059601,
+    "_score": 0.8825454175151348,
+    "_time": 958.0316850662232,
+    "_weightedf1": 0.8885119383924727,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8806416726748377,
+    "_all_f1": {
+      "Attractive": 0.8972715839186866,
+      "Hotel": 0.8246914938986641,
+      "Restaurant": 0.8954574000418672
+    },
+    "_all_precision": {
+      "Attractive": 0.8601870078740157,
+      "Hotel": 0.9489931610942249,
+      "Restaurant": 0.8683013965573239
+    },
+    "_all_recall": {
+      "Attractive": 0.9376978237155988,
+      "Hotel": 0.7291813647974699,
+      "Restaurant": 0.9243668424237186
+    },
+    "_geometricf1": 0.6628418386548589,
+    "_harmonicf1": 0.8712278183655753,
+    "_macrof1": 0.8724734926197394,
+    "_macrof1accuracy": 0.768336515905105,
+    "_macrorecall": 0.8637486769789291,
+    "_microf1": 0.8806416726748377,
+    "_score": 0.8724734926197394,
+    "_time": 1152.4145997047424,
+    "_weightedf1": 0.8785901710377773,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      -1,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8798666186012978,
+    "_all_f1": {
+      "Attractive": 0.8959292339402267,
+      "Hotel": 0.8159069240441613,
+      "Restaurant": 0.8990136670623105
+    },
+    "_all_precision": {
+      "Attractive": 0.8618946116095771,
+      "Hotel": 0.9442845263225229,
+      "Restaurant": 0.8674569687227915
+    },
+    "_all_recall": {
+      "Attractive": 0.9327622896586255,
+      "Hotel": 0.7182581194501886,
+      "Restaurant": 0.9329530065980925
+    },
+    "_geometricf1": 0.6574013965760406,
+    "_harmonicf1": 0.8686282970446838,
+    "_macrof1": 0.8702832750155661,
+    "_macrof1accuracy": 0.7657332024132094,
+    "_macrorecall": 0.8613244719023022,
+    "_microf1": 0.8798666186012978,
+    "_score": 0.8702832750155661,
+    "_time": 1378.1436906337738,
+    "_weightedf1": 0.8774528207730706,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8750600817111271,
+    "_all_f1": {
+      "Attractive": 0.8917860234685043,
+      "Hotel": 0.8087727120722328,
+      "Restaurant": 0.8944857904392676
+    },
+    "_all_precision": {
+      "Attractive": 0.8563691436473183,
+      "Hotel": 0.9464827316309559,
+      "Restaurant": 0.8610041182977702
+    },
+    "_all_recall": {
+      "Attractive": 0.9302587578905956,
+      "Hotel": 0.7060454932489965,
+      "Restaurant": 0.9306768087129398
+    },
+    "_geometricf1": 0.645374108662571,
+    "_harmonicf1": 0.8632239657033768,
+    "_macrof1": 0.865014841993335,
+    "_macrof1accuracy": 0.7569399583160255,
+    "_macrorecall": 0.8556603532841773,
+    "_microf1": 0.8750600817111271,
+    "_score": 0.865014841993335,
+    "_time": 1602.9588577270508,
+    "_weightedf1": 0.8724105095269328,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      3,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "delete",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8744232155731795,
+    "_all_f1": {
+      "Attractive": 0.8877076183349246,
+      "Hotel": 0.8064244615236019,
+      "Restaurant": 0.8978966062657824
+    },
+    "_all_precision": {
+      "Attractive": 0.8552156186814279,
+      "Hotel": 0.9315863300178526,
+      "Restaurant": 0.8659378596087457
+    },
+    "_all_recall": {
+      "Attractive": 0.9227660449562776,
+      "Hotel": 0.7109110813769615,
+      "Restaurant": 0.9323047223902959
+    },
+    "_geometricf1": 0.643000198015519,
+    "_harmonicf1": 0.8621065953773358,
+    "_macrof1": 0.8640095620414363,
+    "_macrof1accuracy": 0.7555100195262473,
+    "_macrorecall": 0.855327282907845,
+    "_microf1": 0.8744232155731795,
+    "_score": 0.8640095620414363,
+    "_time": 1169.529521036148,
+    "_weightedf1": 0.8718827820425858,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      -1,
+      2,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8729812545061283,
+    "_all_f1": {
+      "Attractive": 0.8919702877406805,
+      "Hotel": 0.8049519183798797,
+      "Restaurant": 0.8913753877973113
+    },
+    "_all_precision": {
+      "Attractive": 0.859857285097909,
+      "Hotel": 0.9441134101623887,
+      "Restaurant": 0.8547120418848168
+    },
+    "_all_recall": {
+      "Attractive": 0.9265749897176374,
+      "Hotel": 0.7015448242306289,
+      "Restaurant": 0.9313250929207364
+    },
+    "_geometricf1": 0.6402245466369817,
+    "_harmonicf1": 0.8608618358907406,
+    "_macrof1": 0.8627658646392905,
+    "_macrof1accuracy": 0.7531784268578723,
+    "_macrorecall": 0.8531483022896676,
+    "_microf1": 0.8729812545061283,
+    "_score": 0.8627658646392905,
+    "_time": 1688.747345161438,
+    "_weightedf1": 0.8702316164041943,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8708423455900024,
+    "_all_f1": {
+      "Attractive": 0.8894016671917441,
+      "Hotel": 0.7940407885019599,
+      "Restaurant": 0.8931011894500948
+    },
+    "_all_precision": {
+      "Attractive": 0.8489158349858588,
+      "Hotel": 0.9538676766642782,
+      "Restaurant": 0.8565023607676132
+    },
+    "_all_recall": {
+      "Attractive": 0.933942526063554,
+      "Hotel": 0.6800875805863034,
+      "Restaurant": 0.9329674129138215
+    },
+    "_geometricf1": 0.6309479910604063,
+    "_harmonicf1": 0.8564048453535298,
+    "_macrof1": 0.8588478817145996,
+    "_macrof1accuracy": 0.7479211038173468,
+    "_macrorecall": 0.848999173187893,
+    "_microf1": 0.8708423455900024,
+    "_score": 0.8588478817145996,
+    "_time": 1762.7155961036683,
+    "_weightedf1": 0.8673936746388575,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      3,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8691720740206681,
+    "_all_f1": {
+      "Attractive": 0.8882133551320697,
+      "Hotel": 0.7954108193752829,
+      "Restaurant": 0.8897439794409826
+    },
+    "_all_precision": {
+      "Attractive": 0.8478144252808166,
+      "Hotel": 0.95030929925971,
+      "Restaurant": 0.854751791876825
+    },
+    "_all_recall": {
+      "Attractive": 0.9326549954399957,
+      "Hotel": 0.6839313952073957,
+      "Restaurant": 0.9277235139885326
+    },
+    "_geometricf1": 0.6288197137144211,
+    "_harmonicf1": 0.8555355940884092,
+    "_macrof1": 0.8577893846494451,
+    "_macrof1accuracy": 0.7455665785286708,
+    "_macrorecall": 0.848103301545308,
+    "_microf1": 0.8691720740206681,
+    "_score": 0.8577893846494451,
+    "_time": 1938.9292692661286,
+    "_weightedf1": 0.8659326445065961,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -2,
+      -1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8571076664263398,
+    "_all_f1": {
+      "Attractive": 0.8764932695286949,
+      "Hotel": 0.7809455893888612,
+      "Restaurant": 0.8781732468259004
+    },
+    "_all_precision": {
+      "Attractive": 0.8448902384389467,
+      "Hotel": 0.9437435367114788,
+      "Restaurant": 0.8340785091300235
+    },
+    "_all_recall": {
+      "Attractive": 0.910552386402246,
+      "Hotel": 0.6660503588371245,
+      "Restaurant": 0.9271904803065664
+    },
+    "_geometricf1": 0.6013179523996606,
+    "_harmonicf1": 0.8427646352669422,
+    "_macrof1": 0.8452040352478188,
+    "_macrof1accuracy": 0.7244308583053839,
+    "_macrorecall": 0.8345977418486457,
+    "_microf1": 0.8571076664263398,
+    "_score": 0.8452040352478188,
+    "_time": 1591.9030446052552,
+    "_weightedf1": 0.8535968897639771,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      -3,
+      -2,
+      1,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "delete",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8496995914443644,
+    "_all_f1": {
+      "Attractive": 0.8652886549407284,
+      "Hotel": 0.781011751821743,
+      "Restaurant": 0.8709035919956912
+    },
+    "_all_precision": {
+      "Attractive": 0.8298256558426634,
+      "Hotel": 0.923467693737964,
+      "Restaurant": 0.8362905792488861
+    },
+    "_all_recall": {
+      "Attractive": 0.9039180272169668,
+      "Hotel": 0.6766330130154482,
+      "Restaurant": 0.9085054888062927
+    },
+    "_geometricf1": 0.588768159305177,
+    "_harmonicf1": 0.8370821596548469,
+    "_macrof1": 0.8390679995860543,
+    "_macrof1accuracy": 0.7129557364423104,
+    "_macrorecall": 0.8296855096795692,
+    "_microf1": 0.8496995914443644,
+    "_score": 0.8390679995860543,
+    "_time": 1421.6955596923829,
+    "_weightedf1": 0.8468168521170519,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      1,
+      2,
+      5,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8448089401586157,
+    "_all_f1": {
+      "Attractive": 0.8620615819450987,
+      "Hotel": 0.7690496787826359,
+      "Restaurant": 0.8676620058786364
+    },
+    "_all_precision": {
+      "Attractive": 0.8272512082059374,
+      "Hotel": 0.92199401523395,
+      "Restaurant": 0.8290375075461298
+    },
+    "_all_recall": {
+      "Attractive": 0.8999302587578906,
+      "Hotel": 0.6596277825082106,
+      "Restaurant": 0.9100613709050047
+    },
+    "_geometricf1": 0.5754401503566446,
+    "_harmonicf1": 0.8304723218666639,
+    "_macrof1": 0.8329244222021237,
+    "_macrof1accuracy": 0.7036619983528035,
+    "_macrorecall": 0.823206470723702,
+    "_microf1": 0.8448089401586157,
+    "_score": 0.8329244222021237,
+    "_time": 1400.4368146419524,
+    "_weightedf1": 0.8414264794903377,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      1,
+      2,
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8348654169670752,
+    "_all_f1": {
+      "Attractive": 0.8508513170832687,
+      "Hotel": 0.7669200553875717,
+      "Restaurant": 0.8550845602320617
+    },
+    "_all_precision": {
+      "Attractive": 0.821817151806988,
+      "Hotel": 0.9147258080825104,
+      "Restaurant": 0.8141986085415743
+    },
+    "_all_recall": {
+      "Attractive": 0.8820121242467052,
+      "Hotel": 0.6602359810242063,
+      "Restaurant": 0.9002938888408678
+    },
+    "_geometricf1": 0.5581761628982252,
+    "_harmonicf1": 0.8223142170543996,
+    "_macrof1": 0.8242853109009673,
+    "_macrof1accuracy": 0.6881672997851713,
+    "_macrorecall": 0.8141806647039264,
+    "_microf1": 0.8348654169670752,
+    "_score": 0.8242853109009673,
+    "_time": 1032.8138162612915,
+    "_weightedf1": 0.8318886388083869,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -2,
+      1,
+      2,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.831915404950733,
+    "_all_f1": {
+      "Attractive": 0.8524871355060034,
+      "Hotel": 0.7218186791477981,
+      "Restaurant": 0.8643058686935507
+    },
+    "_all_precision": {
+      "Attractive": 0.8045261938391709,
+      "Hotel": 0.9614995344318044,
+      "Restaurant": 0.8131795549232802
+    },
+    "_all_recall": {
+      "Attractive": 0.9065288532036265,
+      "Hotel": 0.57778859019584,
+      "Restaurant": 0.9222923329587691
+    },
+    "_geometricf1": 0.5320405836206131,
+    "_harmonicf1": 0.8075452336857538,
+    "_macrof1": 0.8128705611157842,
+    "_macrof1accuracy": 0.6762395420231672,
+    "_macrorecall": 0.8022032587860785,
+    "_microf1": 0.831915404950733,
+    "_score": 0.8128705611157842,
+    "_time": 1703.6343826770783,
+    "_weightedf1": 0.8251455027667361,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -3,
+      1,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.8114695986541697,
+    "_all_f1": {
+      "Attractive": 0.8290796062856156,
+      "Hotel": 0.7305857213944911,
+      "Restaurant": 0.8349133352158887
+    },
+    "_all_precision": {
+      "Attractive": 0.801549274612264,
+      "Hotel": 0.9169023915359465,
+      "Restaurant": 0.7827786182551689
+    },
+    "_all_recall": {
+      "Attractive": 0.8585683374760823,
+      "Hotel": 0.6072010704293882,
+      "Restaurant": 0.8944881436021552
+    },
+    "_geometricf1": 0.5059092778882119,
+    "_harmonicf1": 0.7952972603238675,
+    "_macrof1": 0.7981928876319985,
+    "_macrof1accuracy": 0.6477092621753505,
+    "_macrorecall": 0.7867525171692087,
+    "_microf1": 0.8114695986541697,
+    "_score": 0.7981928876319985,
+    "_time": 1292.8231438159942,
+    "_weightedf1": 0.8071879415506739,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -2,
+      1,
+      2,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "none",
+    "weighting": "tf"
+  }
+]
