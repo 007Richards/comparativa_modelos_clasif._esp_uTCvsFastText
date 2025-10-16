@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Experimento_Académico-blue" alt="Status">
   <img src="https://img.shields.io/badge/Python-3.9-brightgreen" alt="Python">
-  <img src="https://img.shields.io/badge/License-MIT-orange" alt="License">
 </p>
 
 ---
