@@ -1,0 +1,1 @@
+{"accuracy": 0.9780894300868079, "f1_Attractive": 0.9843673012318029, "f1_Hotel": 0.9774331444477582, "f1_Restaurant": 0.9680139238058403, "filename": "predictedTyp.json", "macrof1": 0.9766047898284671, "macrof1accuracy": 0.9552068223033722, "macrorecall": 0.9763951819048543, "microf1": 0.9780894300868079, "quadratic_weighted_kappa": 0.9646399012117989}

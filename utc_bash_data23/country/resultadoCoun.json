@@ -1,0 +1,1 @@
+{"accuracy": 0.9159333346576349, "f1_Colombia": 0.8913760061326179, "f1_Cuba": 0.9144924189948433, "f1_Mexico": 0.929885199358104, "filename": "predictedCoun.json", "macrof1": 0.9119178748285218, "macrof1accuracy": 0.8352559800255918, "macrorecall": 0.9076552312468483, "microf1": 0.9159333346576349, "quadratic_weighted_kappa": 0.8527142708617135}
