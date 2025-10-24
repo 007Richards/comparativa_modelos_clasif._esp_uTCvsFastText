@@ -6,4 +6,4 @@
 #SBATCH -e /home/fasttext/stderr.txt
 #SBATCH -o /home/fasttext/stdout.txt
 source ~/pythvenv/bin/activate
-sh ~/restMex/fasttext/fasttextR.sh
+sh ~/fasttext/fasttextR.sh
