@@ -1,0 +1,2620 @@
+[
+  {
+    "_accuracy": 0.9161257641747905,
+    "_all_f1": {
+      "Colombia": 0.8954387559038722,
+      "Cuba": 0.9135611566414102,
+      "Mexico": 0.9287857891827954
+    },
+    "_all_precision": {
+      "Colombia": 0.9071939548531865,
+      "Cuba": 0.935402153261558,
+      "Mexico": 0.9109755603291046
+    },
+    "_all_recall": {
+      "Colombia": 0.8839843019996262,
+      "Cuba": 0.8927168328800241,
+      "Mexico": 0.9473063103880641
+    },
+    "_geometricf1": 0.760031978815413,
+    "_harmonicf1": 0.912491311872932,
+    "_macrof1": 0.9125952339093594,
+    "_macrof1accuracy": 0.8360520060474835,
+    "_macrorecall": 0.9080024817559048,
+    "_microf1": 0.9161257641747905,
+    "_score": 0.9125952339093594,
+    "_time": 1593.8154283046722,
+    "_weightedf1": 0.9159210701159142,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      -3,
+      -1,
+      1,
+      5,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9154205630683201,
+    "_all_f1": {
+      "Colombia": 0.8950688127780254,
+      "Cuba": 0.912736465870456,
+      "Mexico": 0.9279059221239667
+    },
+    "_all_precision": {
+      "Colombia": 0.9087652394984689,
+      "Cuba": 0.93677303906949,
+      "Mexico": 0.9080740329819961
+    },
+    "_all_recall": {
+      "Colombia": 0.8817791067090264,
+      "Cuba": 0.8899025385312783,
+      "Mexico": 0.9486233892125976
+    },
+    "_geometricf1": 0.7583132976845326,
+    "_harmonicf1": 0.9118060097897247,
+    "_macrof1": 0.9119037335908159,
+    "_macrof1accuracy": 0.834775429267808,
+    "_macrorecall": 0.9067683448176341,
+    "_microf1": 0.9154205630683201,
+    "_score": 0.9119037335908159,
+    "_time": 1806.262504529953,
+    "_weightedf1": 0.9151912186163998,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      1,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9153311713787675,
+    "_all_f1": {
+      "Colombia": 0.8950621386322855,
+      "Cuba": 0.9125457609390435,
+      "Mexico": 0.9278094561113429
+    },
+    "_all_precision": {
+      "Colombia": 0.9096663386016712,
+      "Cuba": 0.9364341085271318,
+      "Mexico": 0.9075902934537246
+    },
+    "_all_recall": {
+      "Colombia": 0.8809194543076061,
+      "Cuba": 0.8898458748866727,
+      "Mexico": 0.9489500247610819
+    },
+    "_geometricf1": 0.758070412858911,
+    "_harmonicf1": 0.9117092280290852,
+    "_macrof1": 0.9118057852275573,
+    "_macrof1accuracy": 0.834604257462277,
+    "_macrorecall": 0.906571784651787,
+    "_microf1": 0.9153311713787675,
+    "_score": 0.9118057852275573,
+    "_time": 1568.4675055503844,
+    "_weightedf1": 0.9150938357305016,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      -1,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9153659348135935,
+    "_all_f1": {
+      "Colombia": 0.8946764200798869,
+      "Cuba": 0.9125538610505931,
+      "Mexico": 0.9281002638522428
+    },
+    "_all_precision": {
+      "Colombia": 0.9086511592052265,
+      "Cuba": 0.9362420774472989,
+      "Mexico": 0.9082821436136411
+    },
+    "_all_recall": {
+      "Colombia": 0.8811250233601196,
+      "Cuba": 0.8900347537020248,
+      "Mexico": 0.9488025119327341
+    },
+    "_geometricf1": 0.7579879711326405,
+    "_harmonicf1": 0.9116720477636419,
+    "_macrof1": 0.9117768483275742,
+    "_macrof1accuracy": 0.834609467110762,
+    "_macrorecall": 0.9066540963316262,
+    "_microf1": 0.9153659348135935,
+    "_score": 0.9117768483275742,
+    "_time": 1730.8672747612,
+    "_weightedf1": 0.915130529741917,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      1,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.915038165285234,
+    "_all_f1": {
+      "Colombia": 0.8940908443685035,
+      "Cuba": 0.9124765060357689,
+      "Mexico": 0.9277653881612493
+    },
+    "_all_precision": {
+      "Colombia": 0.9085367029999035,
+      "Cuba": 0.9367068464812826,
+      "Mexico": 0.9074577842260105
+    },
+    "_all_recall": {
+      "Colombia": 0.8800971780975518,
+      "Cuba": 0.8894681172559685,
+      "Mexico": 0.9490027079140633
+    },
+    "_geometricf1": 0.7571544467924771,
+    "_harmonicf1": 0.9113359502257491,
+    "_macrof1": 0.9114442461885073,
+    "_macrof1accuracy": 0.8340062707921148,
+    "_macrorecall": 0.9061893344225279,
+    "_microf1": 0.915038165285234,
+    "_score": 0.9114442461885073,
+    "_time": 1712.978606414795,
+    "_weightedf1": 0.9147967427254337,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -3,
+      -2,
+      1,
+      2,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9136873575319948,
+    "_all_f1": {
+      "Colombia": 0.8931006323945534,
+      "Cuba": 0.9110848233332041,
+      "Mexico": 0.9262286643743952
+    },
+    "_all_precision": {
+      "Colombia": 0.9078063470002317,
+      "Cuba": 0.9361002630110783,
+      "Mexico": 0.9054332840221799
+    },
+    "_all_recall": {
+      "Colombia": 0.8788637637824706,
+      "Cuba": 0.8873715624055606,
+      "Mexico": 0.9480017280074178
+    },
+    "_geometricf1": 0.753911907114933,
+    "_harmonicf1": 0.910036263413879,
+    "_macrof1": 0.910138040034051,
+    "_macrof1accuracy": 0.831581620788061,
+    "_macrorecall": 0.9047456847318163,
+    "_microf1": 0.9136873575319948,
+    "_score": 0.910138040034051,
+    "_time": 1566.0548300743103,
+    "_weightedf1": 0.9134433856395551,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -2,
+      -1,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9135532699976658,
+    "_all_f1": {
+      "Colombia": 0.892602605062669,
+      "Cuba": 0.9110973915727736,
+      "Mexico": 0.9263391009189502
+    },
+    "_all_precision": {
+      "Colombia": 0.9030678601484202,
+      "Cuba": 0.9310725552050473,
+      "Mexico": 0.9100928251166668
+    },
+    "_all_recall": {
+      "Colombia": 0.8823771257708839,
+      "Cuba": 0.8919613176186159,
+      "Mexico": 0.9431759511943271
+    },
+    "_geometricf1": 0.7535917691872819,
+    "_harmonicf1": 0.9099035636607596,
+    "_macrof1": 0.9100130325181309,
+    "_macrof1accuracy": 0.8313453815974308,
+    "_macrorecall": 0.9058381315279423,
+    "_microf1": 0.9135532699976658,
+    "_score": 0.9100130325181309,
+    "_time": 1487.6029378414155,
+    "_weightedf1": 0.9133663954154336,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      -3,
+      -1,
+      2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9130318184752757,
+    "_all_f1": {
+      "Colombia": 0.8914358545122508,
+      "Cuba": 0.9111356717662342,
+      "Mexico": 0.9257148734828224
+    },
+    "_all_precision": {
+      "Colombia": 0.9077015457327703,
+      "Cuba": 0.93601848531931,
+      "Mexico": 0.904202626264656
+    },
+    "_all_recall": {
+      "Colombia": 0.8757428518034013,
+      "Cuba": 0.8875415533393775,
+      "Mexico": 0.9482756804029208
+    },
+    "_geometricf1": 0.7521313304186613,
+    "_harmonicf1": 0.90931124542008,
+    "_macrof1": 0.9094287999204358,
+    "_macrof1accuracy": 0.8303374309651431,
+    "_macrorecall": 0.9038533618485665,
+    "_microf1": 0.9130318184752757,
+    "_score": 0.9094287999204358,
+    "_time": 1760.1036154270173,
+    "_weightedf1": 0.9127721906356061,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -2,
+      -1,
+      1,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9129573254006486,
+    "_all_f1": {
+      "Colombia": 0.891286606312513,
+      "Cuba": 0.9110042848714055,
+      "Mexico": 0.9257722072418113
+    },
+    "_all_precision": {
+      "Colombia": 0.9053944628672784,
+      "Cuba": 0.9335884067164919,
+      "Mexico": 0.9064109035840484
+    },
+    "_all_recall": {
+      "Colombia": 0.8776116613717062,
+      "Cuba": 0.8894870051375038,
+      "Mexico": 0.9459786949329343
+    },
+    "_geometricf1": 0.7519435545107862,
+    "_harmonicf1": 0.9092343079820955,
+    "_macrof1": 0.9093543661419098,
+    "_macrof1accuracy": 0.8302017299543201,
+    "_macrorecall": 0.9043591204807147,
+    "_microf1": 0.9129573254006486,
+    "_score": 0.9093543661419098,
+    "_time": 1407.7895421504975,
+    "_weightedf1": 0.9127250065043025,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -3,
+      -2,
+      1,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9125103669528856,
+    "_all_f1": {
+      "Colombia": 0.8911911210439591,
+      "Cuba": 0.9102685562924151,
+      "Mexico": 0.925331213019279
+    },
+    "_all_precision": {
+      "Colombia": 0.9033558593150054,
+      "Cuba": 0.9323141510554873,
+      "Mexico": 0.9072133637053911
+    },
+    "_all_recall": {
+      "Colombia": 0.8793496542702298,
+      "Cuba": 0.8892414626775461,
+      "Mexico": 0.9441874677315688
+    },
+    "_geometricf1": 0.7508980429832137,
+    "_harmonicf1": 0.9088151174567515,
+    "_macrof1": 0.9089302967852179,
+    "_macrof1accuracy": 0.8294083186540744,
+    "_macrorecall": 0.9042595282264482,
+    "_microf1": 0.9125103669528856,
+    "_score": 0.9089302967852179,
+    "_time": 1173.182402086258,
+    "_weightedf1": 0.9122983336665421,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      -3,
+      -1,
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9125004345429353,
+    "_all_f1": {
+      "Colombia": 0.8906714651008618,
+      "Cuba": 0.9101094244332859,
+      "Mexico": 0.9256707590840829
+    },
+    "_all_precision": {
+      "Colombia": 0.9028993855606758,
+      "Cuba": 0.9329366260041654,
+      "Mexico": 0.9071369328181579
+    },
+    "_all_recall": {
+      "Colombia": 0.8787703233040554,
+      "Cuba": 0.8883726201269265,
+      "Mexico": 0.9449777150262889
+    },
+    "_geometricf1": 0.7506043615249934,
+    "_harmonicf1": 0.9086911740513586,
+    "_macrof1": 0.9088172162060769,
+    "_macrof1accuracy": 0.829296104708146,
+    "_macrorecall": 0.904040219485757,
+    "_microf1": 0.9125004345429353,
+    "_score": 0.9088172162060769,
+    "_time": 1685.665315723419,
+    "_weightedf1": 0.9122784362271545,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      2,
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9119789830205451,
+    "_all_f1": {
+      "Colombia": 0.8898678414096917,
+      "Cuba": 0.9098564075822977,
+      "Mexico": 0.9252105924512496
+    },
+    "_all_precision": {
+      "Colombia": 0.9004055708601163,
+      "Cuba": 0.9308082903601841,
+      "Mexico": 0.9084446971851009
+    },
+    "_all_recall": {
+      "Colombia": 0.8795739114184264,
+      "Cuba": 0.8898269870051375,
+      "Mexico": 0.9426069731421286
+    },
+    "_geometricf1": 0.7493460720327578,
+    "_harmonicf1": 0.9081805127812176,
+    "_macrof1": 0.9083116138144129,
+    "_macrof1accuracy": 0.8283611018322184,
+    "_macrorecall": 0.9040026238552309,
+    "_microf1": 0.9119789830205451,
+    "_score": 0.9083116138144129,
+    "_time": 1534.2442093372345,
+    "_weightedf1": 0.9117814648052032,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -1,
+      2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.911869726511092,
+    "_all_f1": {
+      "Colombia": 0.8903940183786457,
+      "Cuba": 0.90959132448855,
+      "Mexico": 0.9246912500707257
+    },
+    "_all_precision": {
+      "Colombia": 0.906765868402697,
+      "Cuba": 0.9340405628644787,
+      "Mexico": 0.9033224127188311
+    },
+    "_all_recall": {
+      "Colombia": 0.8746028779667352,
+      "Cuba": 0.8863893925657298,
+      "Mexico": 0.9470955777761387
+    },
+    "_geometricf1": 0.7491499787681123,
+    "_harmonicf1": 0.9081081554261657,
+    "_macrof1": 0.9082255309793071,
+    "_macrof1accuracy": 0.8281833665444921,
+    "_macrorecall": 0.9026959494362012,
+    "_microf1": 0.911869726511092,
+    "_score": 0.9082255309793071,
+    "_time": 2058.9746747016907,
+    "_weightedf1": 0.911606813025489,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      -3,
+      -2,
+      -1,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9112986129389504,
+    "_all_f1": {
+      "Colombia": 0.889879431415971,
+      "Cuba": 0.9088486089248984,
+      "Mexico": 0.9243060831098225
+    },
+    "_all_precision": {
+      "Colombia": 0.9014303244113813,
+      "Cuba": 0.9298148550653046,
+      "Mexico": 0.9070144833461804
+    },
+    "_all_recall": {
+      "Colombia": 0.8786208185385909,
+      "Cuba": 0.8888070414022363,
+      "Mexico": 0.942269800963048
+    },
+    "_geometricf1": 0.7477942022605449,
+    "_harmonicf1": 0.9075592398396506,
+    "_macrof1": 0.9076780411502307,
+    "_macrof1accuracy": 0.8271657398953488,
+    "_macrorecall": 0.903232553634625,
+    "_microf1": 0.9112986129389504,
+    "_score": 0.9076780411502307,
+    "_time": 1075.9785019874573,
+    "_weightedf1": 0.9110932432580905,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      1,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9111347281747707,
+    "_all_f1": {
+      "Colombia": 0.8891799988851107,
+      "Cuba": 0.9086652396605764,
+      "Mexico": 0.9249002310438983
+    },
+    "_all_precision": {
+      "Colombia": 0.884136427462863,
+      "Cuba": 0.9195613492186291,
+      "Mexico": 0.9218699297624905
+    },
+    "_all_recall": {
+      "Colombia": 0.8942814427209868,
+      "Cuba": 0.8980243275914174,
+      "Mexico": 0.9279505199827199
+    },
+    "_geometricf1": 0.7475359316811466,
+    "_harmonicf1": 0.9074464425140591,
+    "_macrof1": 0.9075818231965286,
+    "_macrof1accuracy": 0.8269293177745318,
+    "_macrorecall": 0.9067520967650413,
+    "_microf1": 0.9111347281747707,
+    "_score": 0.9075818231965286,
+    "_time": 1310.418400669098,
+    "_weightedf1": 0.9111391998282441,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -2,
+      -1,
+      1,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9106232090623309,
+    "_all_f1": {
+      "Colombia": 0.8887351834831961,
+      "Cuba": 0.9082296530456386,
+      "Mexico": 0.9238249594813615
+    },
+    "_all_precision": {
+      "Colombia": 0.9013664930522188,
+      "Cuba": 0.9302164399295035,
+      "Mexico": 0.9054851210652528
+    },
+    "_all_recall": {
+      "Colombia": 0.8764529994393572,
+      "Cuba": 0.8872582351163494,
+      "Mexico": 0.9429230720600167
+    },
+    "_geometricf1": 0.7459357625726396,
+    "_harmonicf1": 0.9068022367773307,
+    "_macrof1": 0.9069299320033988,
+    "_macrof1accuracy": 0.8258714450756165,
+    "_macrorecall": 0.9022114355385744,
+    "_microf1": 0.9106232090623309,
+    "_score": 0.9069299320033988,
+    "_time": 1086.9198853969574,
+    "_weightedf1": 0.9103996595593571,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      -3,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9103600001986482,
+    "_all_f1": {
+      "Colombia": 0.8876558788598575,
+      "Cuba": 0.9089551524434021,
+      "Mexico": 0.9239766695890929
+    },
+    "_all_precision": {
+      "Colombia": 0.8814727453654222,
+      "Cuba": 0.9215077347101182,
+      "Mexico": 0.9207525059116496
+    },
+    "_all_recall": {
+      "Colombia": 0.8939263689030088,
+      "Cuba": 0.8967399516470232,
+      "Mexico": 0.9272234924715774
+    },
+    "_geometricf1": 0.7457474813688716,
+    "_harmonicf1": 0.9067168626900942,
+    "_macrof1": 0.9068625669641174,
+    "_macrof1accuracy": 0.8255714066416004,
+    "_macrorecall": 0.9059632710072032,
+    "_microf1": 0.9103600001986482,
+    "_score": 0.9068625669641174,
+    "_time": 1993.1843963623046,
+    "_weightedf1": 0.910375104660021,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      -3,
+      -2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9097243259618297,
+    "_all_f1": {
+      "Colombia": 0.8869646009476911,
+      "Cuba": 0.9078719599085702,
+      "Mexico": 0.9235977347518252
+    },
+    "_all_precision": {
+      "Colombia": 0.8819660014781966,
+      "Cuba": 0.9195420113528489,
+      "Mexico": 0.9201351125240526
+    },
+    "_all_recall": {
+      "Colombia": 0.8920201831433376,
+      "Cuba": 0.8964944091870656,
+      "Mexico": 0.927086516273826
+    },
+    "_geometricf1": 0.7439736672484665,
+    "_harmonicf1": 0.9059955775931915,
+    "_macrof1": 0.9061447652026956,
+    "_macrof1accuracy": 0.8243419357478627,
+    "_macrorecall": 0.905200369534743,
+    "_microf1": 0.9097243259618297,
+    "_score": 0.9061447652026956,
+    "_time": 1880.4506260871888,
+    "_weightedf1": 0.9097279962564834,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9096349342722772,
+    "_all_f1": {
+      "Colombia": 0.8868516284680338,
+      "Cuba": 0.907101009522719,
+      "Mexico": 0.9239442545358927
+    },
+    "_all_precision": {
+      "Colombia": 0.8807224474751197,
+      "Cuba": 0.9165991746692892,
+      "Mexico": 0.9223145008032086
+    },
+    "_all_recall": {
+      "Colombia": 0.8930667165015885,
+      "Cuba": 0.8977976730129948,
+      "Mexico": 0.9255797780985596
+    },
+    "_geometricf1": 0.7435261224962644,
+    "_harmonicf1": 0.9058113248569652,
+    "_macrof1": 0.905965630842215,
+    "_macrof1accuracy": 0.8240979870641004,
+    "_macrorecall": 0.905481389204381,
+    "_microf1": 0.9096349342722772,
+    "_score": 0.905965630842215,
+    "_time": 2606.622055578232,
+    "_weightedf1": 0.9096585925414221,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9094362860732714,
+    "_all_f1": {
+      "Colombia": 0.8869723273239855,
+      "Cuba": 0.9074890710643875,
+      "Mexico": 0.9232312937678289
+    },
+    "_all_precision": {
+      "Colombia": 0.8803431390596812,
+      "Cuba": 0.9193526504506251,
+      "Mexico": 0.9206340890993672
+    },
+    "_all_recall": {
+      "Colombia": 0.8937021117548122,
+      "Cuba": 0.8959277727410093,
+      "Mexico": 0.9258431938634664
+    },
+    "_geometricf1": 0.7433713926777706,
+    "_harmonicf1": 0.9057536438111758,
+    "_macrof1": 0.9058975640520673,
+    "_macrof1accuracy": 0.8238561162143356,
+    "_macrorecall": 0.9051576927864294,
+    "_microf1": 0.9094362860732714,
+    "_score": 0.9058975640520673,
+    "_time": 1604.7882379055022,
+    "_weightedf1": 0.9094566624677207,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      1,
+      2,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9094015226384454,
+    "_all_f1": {
+      "Colombia": 0.8864286510383772,
+      "Cuba": 0.9079793401496785,
+      "Mexico": 0.9231503379707074
+    },
+    "_all_precision": {
+      "Colombia": 0.8811255954798922,
+      "Cuba": 0.9214984536984809,
+      "Mexico": 0.9188955005741727
+    },
+    "_all_recall": {
+      "Colombia": 0.8917959259951411,
+      "Cuba": 0.8948511634935026,
+      "Mexico": 0.9274447617140991
+    },
+    "_geometricf1": 0.7432519309868894,
+    "_harmonicf1": 0.9057012970869757,
+    "_macrof1": 0.9058527763862544,
+    "_macrof1accuracy": 0.823783894131923,
+    "_macrorecall": 0.9046972837342476,
+    "_microf1": 0.9094015226384454,
+    "_score": 0.9058527763862544,
+    "_time": 1216.6165332317353,
+    "_weightedf1": 0.9094029351648735,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      -3,
+      -1,
+      1,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9088651725011299,
+    "_all_f1": {
+      "Colombia": 0.8851286718612146,
+      "Cuba": 0.907172107619886,
+      "Mexico": 0.9232085404321652
+    },
+    "_all_precision": {
+      "Colombia": 0.8797607399339081,
+      "Cuba": 0.9192391220041883,
+      "Mexico": 0.9197569596954676
+    },
+    "_all_recall": {
+      "Colombia": 0.8905625116800598,
+      "Cuba": 0.8954177999395588,
+      "Mexico": 0.9266861243111678
+    },
+    "_geometricf1": 0.7415490522415853,
+    "_harmonicf1": 0.9049996659204864,
+    "_macrof1": 0.9051697733044218,
+    "_macrof1accuracy": 0.822677282157132,
+    "_macrorecall": 0.9042221453102622,
+    "_microf1": 0.9088651725011299,
+    "_score": 0.9051697733044218,
+    "_time": 1647.812469291687,
+    "_weightedf1": 0.9088726627495708,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      -2,
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9087559159916766,
+    "_all_f1": {
+      "Colombia": 0.886266441885495,
+      "Cuba": 0.9064690916859257,
+      "Mexico": 0.9220894587391977
+    },
+    "_all_precision": {
+      "Colombia": 0.9037314737475962,
+      "Cuba": 0.9327910787801271,
+      "Mexico": 0.8993008954147553
+    },
+    "_all_recall": {
+      "Colombia": 0.8694636516538965,
+      "Cuba": 0.8815918706557873,
+      "Mexico": 0.9460629879777045
+    },
+    "_geometricf1": 0.7410275713799749,
+    "_harmonicf1": 0.9048034245658858,
+    "_macrof1": 0.9049416641035396,
+    "_macrof1accuracy": 0.8223710908814442,
+    "_macrorecall": 0.8990395034291293,
+    "_microf1": 0.9087559159916766,
+    "_score": 0.9049416641035396,
+    "_time": 1532.9221761226654,
+    "_weightedf1": 0.908462716991242,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -1,
+      1,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9082841265190379,
+    "_all_f1": {
+      "Colombia": 0.8848026462499071,
+      "Cuba": 0.9065370483772198,
+      "Mexico": 0.9225021774946743
+    },
+    "_all_precision": {
+      "Colombia": 0.879864730014414,
+      "Cuba": 0.918631709587341,
+      "Mexico": 0.9187805056490975
+    },
+    "_all_recall": {
+      "Colombia": 0.8897962997570548,
+      "Cuba": 0.8947567240858265,
+      "Mexico": 0.9262541224567208
+    },
+    "_geometricf1": 0.7401903707664573,
+    "_harmonicf1": 0.9044492182890146,
+    "_macrof1": 0.9046139573739338,
+    "_macrof1accuracy": 0.8216464981103137,
+    "_macrorecall": 0.9036023820998674,
+    "_microf1": 0.9082841265190379,
+    "_score": 0.9046139573739338,
+    "_time": 1905.7257816314698,
+    "_weightedf1": 0.9082861192068133,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      1,
+      2,
+      3,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9079861542205293,
+    "_all_f1": {
+      "Colombia": 0.8849794506536738,
+      "Cuba": 0.9065583061951833,
+      "Mexico": 0.9217130087555409
+    },
+    "_all_precision": {
+      "Colombia": 0.8806721444962617,
+      "Cuba": 0.9224287920552069,
+      "Mexico": 0.9156511250675873
+    },
+    "_all_recall": {
+      "Colombia": 0.8893290973649786,
+      "Cuba": 0.8912246902387428,
+      "Mexico": 0.9278556903073535
+    },
+    "_geometricf1": 0.7397223401419118,
+    "_harmonicf1": 0.9042648395576324,
+    "_macrof1": 0.9044169218681327,
+    "_macrof1accuracy": 0.8211980426990148,
+    "_macrorecall": 0.9028031593036916,
+    "_microf1": 0.9079861542205293,
+    "_score": 0.9044169218681327,
+    "_time": 1242.591871023178,
+    "_weightedf1": 0.9079667358109961,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -3,
+      -1,
+      3
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9068240622563456,
+    "_all_f1": {
+      "Colombia": 0.8824936490570936,
+      "Cuba": 0.9062308517156863,
+      "Mexico": 0.9209310142004874
+    },
+    "_all_precision": {
+      "Colombia": 0.8756899977920071,
+      "Cuba": 0.9188995029512271,
+      "Mexico": 0.918028667455423
+    },
+    "_all_recall": {
+      "Colombia": 0.8894038497477107,
+      "Cuba": 0.8939067694167422,
+      "Mexico": 0.9238517706807717
+    },
+    "_geometricf1": 0.7367528361656821,
+    "_harmonicf1": 0.9030394909957128,
+    "_macrof1": 0.9032185049910891,
+    "_macrof1accuracy": 0.8190602738011228,
+    "_macrorecall": 0.9023874632817415,
+    "_microf1": 0.9068240622563456,
+    "_score": 0.9032185049910891,
+    "_time": 1829.1417696475983,
+    "_weightedf1": 0.9068514813643457,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      -1,
+      1,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9051752822045978,
+    "_all_f1": {
+      "Colombia": 0.8822326292650291,
+      "Cuba": 0.9027343483639694,
+      "Mexico": 0.918740246117635
+    },
+    "_all_precision": {
+      "Colombia": 0.9028560250391237,
+      "Cuba": 0.9320700822722426,
+      "Mexico": 0.8930546713353493
+    },
+    "_all_recall": {
+      "Colombia": 0.862530368155485,
+      "Cuba": 0.8751888788153521,
+      "Mexico": 0.9459470850411456
+    },
+    "_geometricf1": 0.7319483278524139,
+    "_harmonicf1": 0.9010873975177,
+    "_macrof1": 0.9012357412488777,
+    "_macrof1accuracy": 0.8157763164178228,
+    "_macrorecall": 0.8945554440039943,
+    "_microf1": 0.9051752822045978,
+    "_score": 0.9012357412488777,
+    "_time": 1767.2187857627869,
+    "_weightedf1": 0.9048302097726973,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      1,
+      2,
+      3,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "none",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.9022154240394118,
+    "_all_f1": {
+      "Colombia": 0.8779386767478798,
+      "Cuba": 0.9013249114158065,
+      "Mexico": 0.9163681245979488
+    },
+    "_all_precision": {
+      "Colombia": 0.8727584996952852,
+      "Cuba": 0.9193117536140792,
+      "Mexico": 0.9097403946002077
+    },
+    "_all_recall": {
+      "Colombia": 0.8831807138852551,
+      "Cuba": 0.8840284073738289,
+      "Mexico": 0.9230931332778404
+    },
+    "_geometricf1": 0.725371631784675,
+    "_harmonicf1": 0.8983643947144926,
+    "_macrof1": 0.8985439042538784,
+    "_macrof1accuracy": 0.8106801695944416,
+    "_macrorecall": 0.8967674181789748,
+    "_microf1": 0.9022154240394118,
+    "_score": 0.8985439042538784,
+    "_time": 1004.9001905441285,
+    "_weightedf1": 0.9022004971369583,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      1,
+      2
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.9002835703040807,
+    "_all_f1": {
+      "Colombia": 0.8746677040783246,
+      "Cuba": 0.8995142741950967,
+      "Mexico": 0.9152145739216211
+    },
+    "_all_precision": {
+      "Colombia": 0.8671098786064535,
+      "Cuba": 0.91456178020691,
+      "Mexico": 0.9115175585284281
+    },
+    "_all_recall": {
+      "Colombia": 0.882358437675201,
+      "Cuba": 0.8849539135690541,
+      "Mexico": 0.9189417008229108
+    },
+    "_geometricf1": 0.7203100196250446,
+    "_harmonicf1": 0.896253109827714,
+    "_macrof1": 0.8964655173983475,
+    "_macrof1accuracy": 0.8070731766578793,
+    "_macrorecall": 0.8954180173557219,
+    "_microf1": 0.9002835703040807,
+    "_score": 0.8964655173983475,
+    "_time": 1662.7652287960052,
+    "_weightedf1": 0.9003114910305156,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      2,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "none",
+    "weighting": "entropy"
+  },
+  {
+    "_accuracy": 0.8919155149209629,
+    "_all_f1": {
+      "Colombia": 0.865374662142734,
+      "Cuba": 0.8890993224905793,
+      "Mexico": 0.9075191116282393
+    },
+    "_all_precision": {
+      "Colombia": 0.8882417755391154,
+      "Cuba": 0.9201252778339059,
+      "Mexico": 0.8799469553772007
+    },
+    "_all_recall": {
+      "Colombia": 0.8436553915156045,
+      "Cuba": 0.8600974614687217,
+      "Mexico": 0.9368750460977588
+    },
+    "_geometricf1": 0.6984850468784541,
+    "_harmonicf1": 0.8870946354323449,
+    "_macrof1": 0.8873310320871841,
+    "_macrof1accuracy": 0.7914243143893902,
+    "_macrorecall": 0.8802092996940284,
+    "_microf1": 0.8919155149209629,
+    "_score": 0.8873310320871841,
+    "_time": 717.0876866340637,
+    "_weightedf1": 0.8914764479144435,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      -3,
+      -1,
+      1,
+      2
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.7515953933482651,
+    "_all_f1": {
+      "Colombia": 0.6791029134353385,
+      "Cuba": 0.7464639145582499,
+      "Mexico": 0.7901518455378028
+    },
+    "_all_precision": {
+      "Colombia": 0.7287761616075062,
+      "Cuba": 0.7866033512541054,
+      "Mexico": 0.7459041702143585
+    },
+    "_all_recall": {
+      "Colombia": 0.6357690151373575,
+      "Cuba": 0.710222121486854,
+      "Mexico": 0.839980191134479
+    },
+    "_geometricf1": 0.4007117277189201,
+    "_harmonicf1": 0.7357984487704857,
+    "_macrof1": 0.7385728911771303,
+    "_macrof1accuracy": 0.5551079826606407,
+    "_macrorecall": 0.728657109252897,
+    "_microf1": 0.7515953933482651,
+    "_score": 0.7385728911771303,
+    "_time": 406.7019085884094,
+    "_weightedf1": 0.7491546207793623,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      1,
+      2
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "delete",
+    "weighting": "tfidf"
+  },
+  {
+    "_accuracy": 0.7531200182756344,
+    "_all_f1": {
+      "Colombia": 0.6691289627577717,
+      "Cuba": 0.7314292242659659,
+      "Mexico": 0.793857624555434
+    },
+    "_all_precision": {
+      "Colombia": 0.8578318183146757,
+      "Cuba": 0.925547909558781,
+      "Mexico": 0.6811077080913083
+    },
+    "_all_recall": {
+      "Colombia": 0.5484769202018315,
+      "Cuba": 0.6046199758235117,
+      "Mexico": 0.9513418399064347
+    },
+    "_geometricf1": 0.38869032657641944,
+    "_harmonicf1": 0.7280193917270079,
+    "_macrof1": 0.7314719371930573,
+    "_macrof1accuracy": 0.5508861587069489,
+    "_macrorecall": 0.701479578643926,
+    "_microf1": 0.7531200182756344,
+    "_score": 0.7314719371930573,
+    "_time": 1163.0389378070831,
+    "_weightedf1": 0.7442976803869084,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      -3,
+      -2,
+      -1,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.7404065335392653,
+    "_all_f1": {
+      "Colombia": 0.6412469466092823,
+      "Cuba": 0.7211370112259261,
+      "Mexico": 0.7849148736729666
+    },
+    "_all_precision": {
+      "Colombia": 0.8491682070240296,
+      "Cuba": 0.9148157825973348,
+      "Mexico": 0.6694729952847729
+    },
+    "_all_recall": {
+      "Colombia": 0.5151186694075873,
+      "Cuba": 0.5951382592928377,
+      "Mexico": 0.9484653397536535
+    },
+    "_geometricf1": 0.36311895663420446,
+    "_harmonicf1": 0.7109701476442635,
+    "_macrof1": 0.7157662771693917,
+    "_macrof1accuracy": 0.5299580281032943,
+    "_macrorecall": 0.6862407561513596,
+    "_microf1": 0.7404065335392653,
+    "_score": 0.7157662771693917,
+    "_time": 1205.9816847801208,
+    "_weightedf1": 0.7299671632097993,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.7260442687511485,
+    "_all_f1": {
+      "Colombia": 0.6368436526136296,
+      "Cuba": 0.676738110213363,
+      "Mexico": 0.775665819897792
+    },
+    "_all_precision": {
+      "Colombia": 0.8589056304520222,
+      "Cuba": 0.9409054217677922,
+      "Mexico": 0.65055244675384
+    },
+    "_all_recall": {
+      "Colombia": 0.506017566809942,
+      "Cuba": 0.5283884859474162,
+      "Mexico": 0.9603611956968401
+    },
+    "_geometricf1": 0.33443864794820494,
+    "_harmonicf1": 0.6918014158490422,
+    "_macrof1": 0.6964158609082616,
+    "_macrof1accuracy": 0.5056287444798403,
+    "_macrorecall": 0.6649224161513995,
+    "_microf1": 0.7260442687511485,
+    "_score": 0.6964158609082616,
+    "_time": 1460.4659143447875,
+    "_weightedf1": 0.7127638536138148,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      -1,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.7163204394098162,
+    "_all_f1": {
+      "Colombia": 0.6018663978053412,
+      "Cuba": 0.6870810055865921,
+      "Mexico": 0.7693430783053424
+    },
+    "_all_precision": {
+      "Colombia": 0.8075059770982761,
+      "Cuba": 0.8951055312954876,
+      "Mexico": 0.6519396472836153
+    },
+    "_all_recall": {
+      "Colombia": 0.4797047280882078,
+      "Cuba": 0.5575135992747053,
+      "Mexico": 0.9383185644894476
+    },
+    "_geometricf1": 0.3182877272630148,
+    "_harmonicf1": 0.6793348646789382,
+    "_macrof1": 0.6860968272324253,
+    "_macrof1accuracy": 0.4914651807608116,
+    "_macrorecall": 0.6585122972841203,
+    "_microf1": 0.7163204394098162,
+    "_score": 0.6860968272324253,
+    "_time": 1435.4550981521606,
+    "_weightedf1": 0.7032083235535455,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      -1,
+      2,
+      5
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.7084788017540636,
+    "_all_f1": {
+      "Colombia": 0.5883042506685553,
+      "Cuba": 0.6666748106523332,
+      "Mexico": 0.7639819390799644
+    },
+    "_all_precision": {
+      "Colombia": 0.8487122573371384,
+      "Cuba": 0.9436644072485821,
+      "Mexico": 0.6336438477877581
+    },
+    "_all_recall": {
+      "Colombia": 0.450177536908989,
+      "Cuba": 0.5153936234511937,
+      "Mexico": 0.9618257873497214
+    },
+    "_geometricf1": 0.2997746608954306,
+    "_harmonicf1": 0.6654793435373064,
+    "_macrof1": 0.6729870001336176,
+    "_macrof1accuracy": 0.4767970234507272,
+    "_macrorecall": 0.6424656492366346,
+    "_microf1": 0.7084788017540636,
+    "_score": 0.6729870001336176,
+    "_time": 1795.342726945877,
+    "_weightedf1": 0.6917120272580772,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.7034331374993171,
+    "_all_f1": {
+      "Colombia": 0.5742684144972932,
+      "Cuba": 0.6662544105343567,
+      "Mexico": 0.7600498415273584
+    },
+    "_all_precision": {
+      "Colombia": 0.8442043435698489,
+      "Cuba": 0.9304073961190694,
+      "Mexico": 0.6300545576807093
+    },
+    "_all_recall": {
+      "Colombia": 0.4351336198841338,
+      "Cuba": 0.5189256572982774,
+      "Mexico": 0.9576322083724067
+    },
+    "_geometricf1": 0.29093437325288457,
+    "_harmonicf1": 0.6582880029611913,
+    "_macrof1": 0.6668575555196695,
+    "_macrof1accuracy": 0.4690897025443262,
+    "_macrorecall": 0.6372304951849393,
+    "_microf1": 0.7034331374993171,
+    "_score": 0.6668575555196695,
+    "_time": 2060.036153793335,
+    "_weightedf1": 0.6860182790158877,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -3,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.7007911164525404,
+    "_all_f1": {
+      "Colombia": 0.577372667364661,
+      "Cuba": 0.6510845222039372,
+      "Mexico": 0.759104013825306
+    },
+    "_all_precision": {
+      "Colombia": 0.8468654019873532,
+      "Cuba": 0.9438565022421525,
+      "Mexico": 0.626598816275864
+    },
+    "_all_recall": {
+      "Colombia": 0.43799289852364043,
+      "Cuba": 0.49694016319129647,
+      "Mexico": 0.962679254428019
+    },
+    "_geometricf1": 0.2854920362211548,
+    "_harmonicf1": 0.6543766390886541,
+    "_macrof1": 0.6625204011313014,
+    "_macrof1accuracy": 0.4642884115813896,
+    "_macrorecall": 0.6325374387143187,
+    "_microf1": 0.7007911164525404,
+    "_score": 0.6625204011313014,
+    "_time": 1702.6301443099976,
+    "_weightedf1": 0.6824087833014665,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      3,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "delete",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6821132195410233,
+    "_all_f1": {
+      "Colombia": 0.6094419002941286,
+      "Cuba": 0.6173781221425477,
+      "Mexico": 0.7442711033605128
+    },
+    "_all_precision": {
+      "Colombia": 0.6070911990505508,
+      "Cuba": 0.8503579477661408,
+      "Mexico": 0.6733240664148111
+    },
+    "_all_recall": {
+      "Colombia": 0.6118108764716875,
+      "Cuba": 0.4846063765488063,
+      "Mexico": 0.8319302053589304
+    },
+    "_geometricf1": 0.280165493675887,
+    "_harmonicf1": 0.6516805035658254,
+    "_macrof1": 0.6570303752657297,
+    "_macrof1accuracy": 0.44816910460875364,
+    "_macrorecall": 0.6427824861264747,
+    "_microf1": 0.6821132195410233,
+    "_score": 0.6570303752657297,
+    "_time": 497.0521611213684,
+    "_weightedf1": 0.6750773038974284,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      -2,
+      -1,
+      1
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.690714686557973,
+    "_all_f1": {
+      "Colombia": 0.5607453750749906,
+      "Cuba": 0.6402190789393254,
+      "Mexico": 0.7523490269511135
+    },
+    "_all_precision": {
+      "Colombia": 0.8130081300813008,
+      "Cuba": 0.9074966208019963,
+      "Mexico": 0.6235165337637955
+    },
+    "_all_recall": {
+      "Colombia": 0.42795739114184267,
+      "Cuba": 0.4945602901178604,
+      "Mexico": 0.948286217033517
+    },
+    "_geometricf1": 0.27021949004052725,
+    "_harmonicf1": 0.6418845452579648,
+    "_macrof1": 0.6511044936551431,
+    "_macrof1accuracy": 0.44972743625149986,
+    "_macrorecall": 0.6236012994310735,
+    "_microf1": 0.690714686557973,
+    "_score": 0.6511044936551431,
+    "_time": 1875.906513261795,
+    "_weightedf1": 0.6719495485048035,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      -3,
+      -2,
+      1,
+      3,
+      5,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "delete",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6889467175868217,
+    "_all_f1": {
+      "Colombia": 0.5590625453490059,
+      "Cuba": 0.6416325165175211,
+      "Mexico": 0.7511498703090157
+    },
+    "_all_precision": {
+      "Colombia": 0.7920978685491056,
+      "Cuba": 0.8730938058852219,
+      "Mexico": 0.6276162461816948
+    },
+    "_all_recall": {
+      "Colombia": 0.4319753317136984,
+      "Cuba": 0.5071773949833787,
+      "Mexico": 0.935231331724741
+    },
+    "_geometricf1": 0.2695730849737041,
+    "_harmonicf1": 0.641329118341419,
+    "_macrof1": 0.6506149773918476,
+    "_macrof1accuracy": 0.4482390530869376,
+    "_macrorecall": 0.6247946861406061,
+    "_microf1": 0.6889467175868217,
+    "_score": 0.6506149773918476,
+    "_time": 1621.5115565776825,
+    "_weightedf1": 0.6713087911638634,
+    "del_diac": true,
+    "del_dup": false,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "none",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        3,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      -1,
+      1,
+      2,
+      3,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "delete",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6844920317241174,
+    "_all_f1": {
+      "Colombia": 0.5489155347535526,
+      "Cuba": 0.6421822113576533,
+      "Mexico": 0.7477080635266853
+    },
+    "_all_precision": {
+      "Colombia": 0.7741935483870968,
+      "Cuba": 0.8499564459930313,
+      "Mexico": 0.6276022856488997
+    },
+    "_all_recall": {
+      "Colombia": 0.4251915529807513,
+      "Cuba": 0.5160358114233907,
+      "Mexico": 0.9246630912366843
+    },
+    "_geometricf1": 0.26369425677686215,
+    "_harmonicf1": 0.6361820109860437,
+    "_macrof1": 0.6462686032126304,
+    "_macrof1accuracy": 0.44236570925252083,
+    "_macrorecall": 0.6219634852136088,
+    "_microf1": 0.6844920317241174,
+    "_score": 0.6462686032126304,
+    "_time": 1307.7426837444305,
+    "_weightedf1": 0.6671346211426707,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -2,
+      1,
+      2,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6870049314415403,
+    "_all_f1": {
+      "Colombia": 0.5445732087227414,
+      "Cuba": 0.6410079517809811,
+      "Mexico": 0.7505055263936894
+    },
+    "_all_precision": {
+      "Colombia": 0.8171652954375468,
+      "Cuba": 0.8922470433639947,
+      "Mexico": 0.6209656276303624
+    },
+    "_all_recall": {
+      "Colombia": 0.4083535787703233,
+      "Cuba": 0.5001699909338169,
+      "Mexico": 0.9483389001864984
+    },
+    "_geometricf1": 0.26210719030611457,
+    "_harmonicf1": 0.6345149905213684,
+    "_macrof1": 0.645362228965804,
+    "_macrof1accuracy": 0.44336703386561177,
+    "_macrorecall": 0.6189541566302128,
+    "_microf1": 0.6870049314415403,
+    "_score": 0.645362228965804,
+    "_time": 1860.0792270183563,
+    "_weightedf1": 0.6669904568972742,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "none",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      1,
+      2,
+      5,
+      7
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6878839497221408,
+    "_all_f1": {
+      "Colombia": 0.5441766301233814,
+      "Cuba": 0.6366206385304501,
+      "Mexico": 0.7507072887537
+    },
+    "_all_precision": {
+      "Colombia": 0.8538378551164743,
+      "Cuba": 0.9507975229874273,
+      "Mexico": 0.6133383214531462
+    },
+    "_all_recall": {
+      "Colombia": 0.39934591665109326,
+      "Cuba": 0.4785055908129344,
+      "Mexico": 0.9673680550433582
+    },
+    "_geometricf1": 0.26019389026615997,
+    "_harmonicf1": 0.6329450171034551,
+    "_macrof1": 0.6438348524691772,
+    "_macrof1accuracy": 0.4428836612852694,
+    "_macrorecall": 0.6150731875024619,
+    "_microf1": 0.6878839497221408,
+    "_score": 0.6438348524691772,
+    "_time": 2252.9328409671784,
+    "_weightedf1": 0.6658266060359537,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "delete",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -2,
+      -1,
+      3,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "group",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6837024051330695,
+    "_all_f1": {
+      "Colombia": 0.5374979164262543,
+      "Cuba": 0.6277235494448453,
+      "Mexico": 0.7480955791392668
+    },
+    "_all_precision": {
+      "Colombia": 0.8561741758915077,
+      "Cuba": 0.951925661406136,
+      "Mexico": 0.6093995505081644
+    },
+    "_all_recall": {
+      "Colombia": 0.3917024855167258,
+      "Cuba": 0.46824947113931703,
+      "Mexico": 0.9685270844089477
+    },
+    "_geometricf1": 0.2525284519969209,
+    "_harmonicf1": 0.6263728778666796,
+    "_macrof1": 0.6377723483367889,
+    "_macrof1accuracy": 0.4360464884852283,
+    "_macrorecall": 0.6094930136883302,
+    "_microf1": 0.6837024051330695,
+    "_score": 0.6377723483367889,
+    "_time": 2139.4687551498414,
+    "_weightedf1": 0.6604815045572239,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "delete",
+    "lc": true,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        1
+      ],
+      -2,
+      3,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6730548616663604,
+    "_all_f1": {
+      "Colombia": 0.5355385618590314,
+      "Cuba": 0.6265813156077752,
+      "Mexico": 0.7399002258227935
+    },
+    "_all_precision": {
+      "Colombia": 0.7324468947624453,
+      "Cuba": 0.8235456978496939,
+      "Mexico": 0.6243415761598041
+    },
+    "_all_recall": {
+      "Colombia": 0.4220706410016819,
+      "Cuba": 0.5056474765790269,
+      "Mexico": 0.9079519951110034
+    },
+    "_geometricf1": 0.24839933799368868,
+    "_harmonicf1": 0.6231838244622041,
+    "_macrof1": 0.6340067010965332,
+    "_macrof1accuracy": 0.4267212925020727,
+    "_macrorecall": 0.6118900375639041,
+    "_microf1": 0.6730548616663604,
+    "_score": 0.6340067010965332,
+    "_time": 1725.5531208515167,
+    "_weightedf1": 0.6557977977402708,
+    "del_diac": true,
+    "del_dup": true,
+    "del_punc": true,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": true,
+    "num_option": "group",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        1
+      ],
+      -2,
+      1,
+      2,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "delete",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6756621192783111,
+    "_all_f1": {
+      "Colombia": 0.5299066141853824,
+      "Cuba": 0.60431654676259,
+      "Mexico": 0.7435915024108782
+    },
+    "_all_precision": {
+      "Colombia": 0.8500330141961043,
+      "Cuba": 0.9631833395314243,
+      "Mexico": 0.602531910441515
+    },
+    "_all_recall": {
+      "Colombia": 0.38493739487946177,
+      "Cuba": 0.44027651858567546,
+      "Mexico": 0.9708872896625117
+    },
+    "_geometricf1": 0.23823768143693852,
+    "_harmonicf1": 0.6140116717572752,
+    "_macrof1": 0.6259382211196168,
+    "_macrof1accuracy": 0.4229227450189764,
+    "_macrorecall": 0.5987004010425497,
+    "_microf1": 0.6756621192783111,
+    "_score": 0.6259382211196168,
+    "_time": 2233.4034553050997,
+    "_weightedf1": 0.6501868628789467,
+    "del_diac": false,
+    "del_dup": true,
+    "del_punc": false,
+    "emo_option": "group",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      -2,
+      3,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "none",
+    "usr_option": "none",
+    "weighting": "tf"
+  },
+  {
+    "_accuracy": 0.6546352074135507,
+    "_all_f1": {
+      "Colombia": 0.515267998731367,
+      "Cuba": 0.5483985812049209,
+      "Mexico": 0.7314015270622193
+    },
+    "_all_precision": {
+      "Colombia": 0.8022121271973138,
+      "Cuba": 0.9082769163572832,
+      "Mexico": 0.5923239156126959
+    },
+    "_all_recall": {
+      "Colombia": 0.3795178471313773,
+      "Cuba": 0.3927734965246298,
+      "Mexico": 0.9558304445404449
+    },
+    "_geometricf1": 0.20677983934686792,
+    "_harmonicf1": 0.5847302394039727,
+    "_macrof1": 0.598356035666169,
+    "_macrof1accuracy": 0.39170492751547253,
+    "_macrorecall": 0.576040596065484,
+    "_microf1": 0.6546352074135507,
+    "_score": 0.598356035666169,
+    "_time": 2001.6569566249848,
+    "_weightedf1": 0.6258487483888282,
+    "del_diac": false,
+    "del_dup": false,
+    "del_punc": false,
+    "emo_option": "none",
+    "ent_option": "none",
+    "hashtag_option": "group",
+    "lc": false,
+    "num_option": "delete",
+    "select_conn": false,
+    "select_ent": false,
+    "select_suff": false,
+    "token_list": [
+      [
+        2,
+        2
+      ],
+      -3,
+      1,
+      5,
+      7,
+      9
+    ],
+    "token_max_filter": 1.0,
+    "token_min_filter": -1,
+    "url_option": "group",
+    "usr_option": "none",
+    "weighting": "tf"
+  }
+]
