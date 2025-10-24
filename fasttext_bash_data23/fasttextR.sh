@@ -1,7 +1,7 @@
 #!/bin/bash
 
-train=/home/rfabian/restMex/fasttext/pol/Rest_Mex_Pol_train.csv
-test=/home/rfabian/restMex/fasttext/pol/Rest_Mex_Pol_test.csv
+train=/home/fasttext/pol/Rest_Mex_Pol_train.csv
+test=/home/fasttext/pol/Rest_Mex_Pol_test.csv
 res="ResultadosPol.txt"
 #numero de n-gramas "1-5":
 n=3
