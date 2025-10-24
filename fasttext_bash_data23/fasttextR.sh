@@ -1,7 +1,7 @@
 #!/bin/bash
 
-train=/home/fasttext/pol/Rest_Mex_Pol_train.csv
-test=/home/fasttext/pol/Rest_Mex_Pol_test.csv
+train=/home/fasttext/Rest_Mex_train.csv
+test=/home/fasttext/Rest_Mex_test.csv
 res="ResultadosPol.txt"
 #numero de n-gramas "1-5":
 n=3
@@ -10,7 +10,7 @@ epo=25
 #taza de aprendizaje "0.1-1.0":
 lr=1.0
 model="fasttext_model1"
-pred="prediccionesPol1.txt"
+pred="predicciones.txt"
 
 
-/home/rfabian/fastText/fasttext supervised -input $train -output $model -epoch $epo -lr $lr -wordNgrams $n && /home/rfabian/fastText/fasttext predict $model.bin $test 5 > $pred && /home/rfabian/fastText/fasttext test $model.bin $test > $res
+/home/rfabian/fastText/fasttext supervised -input $train -output $model -epoch $epo -lr $lr -wordNgrams $n && /home/fastText/ predict $model.bin $test 5 > $pred && /home/asttext test $model.bin $test > $res
