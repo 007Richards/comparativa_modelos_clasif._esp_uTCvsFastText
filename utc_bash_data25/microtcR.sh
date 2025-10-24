@@ -1,9 +1,9 @@
 #!/bin/bash
 
-test="/home/rfabian/restMex25/utc/pol/Rest-Mex25_Pol_test.json"
-train="/home/rfabian/restMex25/utc/pol/Rest-Mex25_Pol_train.json"
-res="resultadoPol.json"
-pred="predictedPol.json"
+test="/home/utc/Rest-Mex25_test.json"
+train="/home/utc/Rest-Mex25_train.json"
+res="resultado.json"
+pred="predicted.json"
 params="params_utc.params"
 model="model_utc.model"
 
