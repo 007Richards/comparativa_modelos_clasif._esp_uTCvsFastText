@@ -1,9 +1,9 @@
 #!/bin/bash
 
-test="/home/rfabian/restMex/utc/coun/Rest_Mex_Coun_test.json"
-train="/home/rfabian/restMex/utc/coun/Rest_Mex_Coun_train.json"
-res="resultadoCoun.json"
-pred="predictedCoun.json"
+test="/home/utc/Rest_Mex_test.json"
+train="/home/utc/Rest_Mex_train.json"
+res="resultado.json"
+pred="predicted.json"
 params="params_utc.params"
 model="model_utc.model"
 
